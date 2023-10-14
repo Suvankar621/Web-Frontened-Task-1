@@ -1,0 +1,73 @@
+body{
+    overflow-x: hidden;
+}
+#form input{
+   width: 360px;
+}
+#form{
+    margin-left: 18vmax;
+}
+#profile{
+    height: 30px;
+
+}
+span{
+    font-weight: 600;
+    font-size: 13px;
+}
+.share img{
+    width: 36px;
+    height: 33px;
+}
+#views{
+    margin-left: 50px;
+}
+#drop{
+    margin-top: -38px;
+}
+button{
+    font-weight: bold;
+}
+#job{
+    font-size: 10px;
+   
+}
+#location{
+    margin-top: 3vmax;
+    width: 20vmax;
+}
+#imp{
+    width: 300px;
+    margin-top: -5vmax;
+}
+#navbar{
+    width: 1040px;
+    margin: auto;
+}
+
+.btn:nth-child(2){
+    margin-right: 245px;
+}
+
+#bg img{
+    height: 440px;
+    width: 100%;
+    object-fit: cover;
+
+    
+}
+
+#bg h1{
+    margin-top: -100px;
+    color: white;
+    margin-left: 3vmax;
+}
+#bg p{
+    color: white;
+    margin-left: 3vmax;
+}
+#filter_btn button{
+    margin-top: 3vmax;
+   
+}
+
